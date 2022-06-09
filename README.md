@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/Yek-h/Insigned"><img src="https://i.imgur.com/MlebHLU.png" alt="Insigned - Killing Floor"></a>
   <br>
-  Insigned Killin Floor
+  Insigned Killing Floor
   <br>
 </h1>
 
