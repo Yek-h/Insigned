@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a>
+  <a href="#Información inicial">Overview</a>
   •
-  <a href="#installation">Installation</a>
+  <a href="#Caracteriscas del servidor">Installation</a>
   •
   <a href="http://docs.discord.red/en/stable/index.html">Documentation</a>
   •
