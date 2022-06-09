@@ -12,17 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="#Información inicial">Información inicial</a>
+  <a href="#Comunidad Insigned">Comunidad Insigned</a>
   •
-  <a href="#Caracteriscas del servidor">Caracteriscas del servidor</a>
+  <a href="#Características del servidor">Características del servidor</a>
   •
-  <a href="http://docs.discord.red/en/stable/index.html">Documentation</a>
+  <a href="#Información sobre las oleadas">Información sobre las oleadas</a>
   •
-  <a href="#plugins">Plugins</a>
+  <a href="#Ubicaciones de servidores actuales">Ubicaciones de servidores actuales</a>
   •
-  <a href="#join-the-community">Community</a>
-  •
-  <a href="#license">License</a>
+  <a href="#Concacto">Concacto</a>
 </p>
 
 # Overview
