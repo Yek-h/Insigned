@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://i.imgur.com/MlebHLU.png" alt="Insigned - Killing Floor"></a>
+  <a href="https://github.com/Yek-h/Insigned"><img src="https://i.imgur.com/MlebHLU.png" alt="Insigned - Killing Floor"></a>
   <br>
-  Red Discord Bot
+  Insigned Killin Floor
   <br>
 </h1>
 
