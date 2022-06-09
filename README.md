@@ -10,19 +10,7 @@
   <a href="https://discord.gg/gBrURTZsSk">
     <img src="https://discordapp.com/api/guilds/735957302544433333/widget.png?style=shield" alt="Discord de la comunidad.">
 </p>
-
-<p align="center">
-  <a href="#Comunidad Insigned">Comunidad Insigned</a>
-  •
-  <a href="#Características del servidor">Características del servidor</a>
-  •
-  <a href="#Información sobre las oleadas">Información sobre las oleadas</a>
-  •
-  <a href="#Ubicaciones de servidores actuales">Ubicaciones de servidores actuales</a>
-  •
-  <a href="#Concacto">Concacto</a>
-</p>
-
+  
 # Overview
 
 Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your
