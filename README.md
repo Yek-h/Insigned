@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://discord.gg/gBrURTZsSk">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord de la comunidad.">
+    <img src="https://discordapp.com/api/guilds/735957302544433333/widget.png?style=shield" alt="Discord de la comunidad.">
   </a>
   <a href="https://pypi.org/project/Red-DiscordBot/">
      <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
