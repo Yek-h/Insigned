@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://discord.gg/red">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  <a href="https://discord.gg/gBrURTZsSk">
+    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord de la comunidad.">
   </a>
   <a href="https://pypi.org/project/Red-DiscordBot/">
      <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
