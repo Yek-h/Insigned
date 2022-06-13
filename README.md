@@ -11,7 +11,7 @@
     <img src="https://discordapp.com/api/guilds/735957302544433333/widget.png?style=shield" alt="Discord de la comunidad.">
 </p>
   
-# Sobre nosotros 
+# Sobre nosotros. 
 
 Insigned es una comunidad dedicada a varios juegos como Killing Floor. A lo largo del tiempo se ha visto una disminución en la calidad de servidores en la cual incluso ha llevado a varias comunidades a cerrar sus servidores. Esta es nuestra principal motivación de poder construir una nueva comunidad de KF. 
 Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibles las siguientes ubicaciones que son Brasil y Chile.  
@@ -23,7 +23,7 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - Crear diferentes modalidades con el feedback de los jugadores.
 - Hacer eventos y que los jugadores participen activamente de todo el contenido del los servidores.
 
-# Características y detalles actuales del servidor
+# Características de nuestros servidores.
 
 **Zeds:** 
 
@@ -50,14 +50,14 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - Se agrega al trader en la pestaña de otros tanto el SentryMedic como la torreta de municion.
 - Redirect ya sido probado y cumple con bastante satisfaccion el entrar en pocos segundos.
 
-# Contenido que desarrollar a futuro
+# Contenido que desarrollar a futuro.
 
 - Sincronizacion con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
 - Incluir mas modalidades.〔Ya esta se esta trabajando en eso〕 
 - Incluir y balancear armas Custom para Perks especificos. 〔En desarollo〕
 - Crear un Perk personalizado (Ya esta hecho pero faltan mas pruebas)
 
-# Unete a nuestra comunidad de Discord!
+# Unete a nuestra comunidad de Discord!.
 
 [Official Discord Server](https://discord.gg/gBrURTZsSk)!
     
