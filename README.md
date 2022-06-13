@@ -41,7 +41,6 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
   
 - Se usan las armas que vienen por defecto en Killing Floor.
 - Todas las armas fueron ajustadas en la munición, todavía está en proceso de revisión para ver si es realmente óptimo.
-- Puedes soldar la armadura de tu compañero(a) no lo olvides.
   
 **Otros:** 
   
