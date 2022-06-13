@@ -14,7 +14,7 @@
 # Sobre nosotros
 
 Insigned es una comunidad dedicada a varios juegos como Killing Floor. A lo largo del tiempo se ha visto una disminución en la calidad de servidores en la cual incluso ha llevado a varias comunidades a cerrar sus servidores.
-Esta es nuestra principal motivación de poder construir una nueva comunidad de KF, queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibles las siguientes ubicaciones que serian Brasil y Chile.  
+Esta es nuestra principal motivación de poder construir una nueva comunidad de KF, queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibles las siguientes ubicaciones que son Brasil y Chile.  
 
 **Nuestros principales objetivos son:**
 
