@@ -52,6 +52,7 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - Progreso de Perks modificado.
 - Se activará una velocidad rápida al ir al trader, si por alguna razón has muerto antes no se va a aplicar.
 - Tiempo de revivir a nivel general es 1 minuto y si quedan pocos jugadores ya no va a ser posible.
+- Optimizaciones y corregir otras variables del HUD.
 
 # Contenido que desarrollar a futuro
 
