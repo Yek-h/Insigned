@@ -13,24 +13,24 @@
   
 # Info
 
-Insigned es una comunidad dedicada a varios juegos, entre ellos también Killing Floor. A lo largo del tiempo se ha visto una disminución en la calidad de servidores en el cual incluso ha llevado a varias comunidades a cerrar sus servidores.
-Por eso queremos entregar y construir una nueva comunidad de Killing Floor, este proyecto quiere abarcar diferentes ubicaciones de servidores pero inicialmente se van a disponer de dos Regiones que son Brasil y Chile.
+Insigned es una comunidad dedicada a varios juegos como Killing Floor. A lo largo del tiempo se ha visto una disminución en la calidad de servidores en la cual incluso ha llevado a varias comunidades a cerrar sus servidores.
+Esta es nuestra principal motivación de poder construir una nueva comunidad de KF. Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibles las siguientes ubicaciones que serian Brasil y Chile.  
 
 **Nuestros principales objetivos son:**
 
-- Servidores de calidad actualmente nuestro Host ha demostrado tener una viabilidad del 99.9% del tiempo. 
-- Expandirnos hacia otras ubicaciones para crear una red completa de servidores (Progreso sincronizado entre varios servidores).
-- Generar diferentes modalidades junto con la ayuda de comentarios de nuestros jugadores.
-- Hacer eventos y disponer de servidores testing para contenido que no haya sido totalmente aprobado para los servidores principales.
+- Entregar servidores de calidad asegurando siempre una disponibilidad permanente.
+- Expandirnos hacia otras ubicaciones para crear una red completa de servidores.
+- Crear diferentes modalidades junto con la ayuda de los jugadores.
+- Hacer eventos y hacer que los jugadores activamente participen de todo el contenido del servidor.
 
-# Características actuales del servidor
+# Características y detalles actuales del servidor
 
 **Zeds:** 
 
-- Texto que tengo que llenar
-- Texto que tengo que llenar
-- Texto que tengo que llenar
-
+- Se usan Zeds estandar para: Clot, GoreFast, Stalker, FleshPound.
+- Se reemplazan los siguientes Zeds estandar por unos Fixeados: Bloat, Crawler, Siren, Husk, Scrake. 
+- Se agregan: Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler y tambien nuestro HardPat editado llamado HardPatInsigned.
+  
 **Oleadas:** 
 
 - Texto que tengo que llenar
