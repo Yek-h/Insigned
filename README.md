@@ -57,9 +57,11 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - Incluir y balancear armas Custom para Perks especificos. 〔En desarollo〕
 - Crear un Perk personalizado (Ya esta hecho pero faltan mas pruebas)
 
-# Unete a nuestra comunidad!
+# Unete a nuestra comunidad de Discord!
 
 [Official Discord Server](https://discord.gg/gBrURTZsSk)!
+    
+# Quieres apoyar al desarollo de esta comunidad o ser un jugador testing comunicate conmigo a traves de Discord mi nick es. ❱ Yek#6171
 
 # License
 
