@@ -29,7 +29,7 @@ Esta es nuestra principal motivación de poder construir una nueva comunidad de 
 
 - Se usan Zeds estandar para: Clot, GoreFast, Stalker, FleshPound.
 - Se reemplazan los siguientes Zeds estandar por unos Fixeados: Bloat, Crawler, Siren, Husk, Scrake. 
-- Se agregan: Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler y tambien nuestro HardPat editado llamado HardPatInsigned.
+- Se agregan: Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
   
 **Oleadas:** 
 
