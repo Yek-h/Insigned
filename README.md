@@ -11,7 +11,7 @@
     <img src="https://discordapp.com/api/guilds/735957302544433333/widget.png?style=shield" alt="Discord de la comunidad.">
 </p>
   
-# Sobre nosotros
+# Sobre nosotros 
 
 Insigned es una comunidad dedicada a varios juegos como Killing Floor. A lo largo del tiempo se ha visto una disminución en la calidad de servidores en la cual incluso ha llevado a varias comunidades a cerrar sus servidores.
 Esta es nuestra principal motivación de poder construir una nueva comunidad de KF, queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibles las siguientes ubicaciones que son Brasil y Chile.  
@@ -27,9 +27,9 @@ Esta es nuestra principal motivación de poder construir una nueva comunidad de 
 
 **Zeds:** 
 
-- Se usan Zeds estandar para - Clot, GoreFast, Stalker, FleshPound.
-- Se reemplazan los siguientes Zeds estandar por unos Fixeados - Bloat, Crawler, Siren, Husk, Scrake. 
-- Se agregan - Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
+- Se usan Zeds estandar para ❱ Clot, GoreFast, Stalker, FleshPound.
+- Se reemplazan los siguientes Zeds estandar por unos Fixeados ❱ Bloat, Crawler, Siren, Husk, Scrake. 
+- Se agregan ❱ Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
   
 **Oleadas:** 
 
