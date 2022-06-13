@@ -20,8 +20,8 @@ Esta es nuestra principal motivación de poder construir una nueva comunidad de 
 
 - Entregar servidores de calidad asegurando siempre una disponibilidad permanente dentro de lo posible.
 - Expandirnos hacia otras ubicaciones para crear una red completa de servidores.
-- Crear diferentes modalidades junto con la ayuda de los jugadores.
-- Hacer eventos y hacer que los jugadores activamente participen de todo el contenido del servidor.
+- Crear diferentes modalidades con el feedback de los jugadores.
+- Hacer eventos y que los jugadores participen activamente de todo el contenido del los servidores.
 
 # Características y detalles actuales del servidor
 
