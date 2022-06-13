@@ -11,7 +11,7 @@
     <img src="https://discordapp.com/api/guilds/735957302544433333/widget.png?style=shield" alt="Discord de la comunidad.">
 </p>
   
-# Sobre nosotros. 
+# Sobre nosotros
 
 Insigned es una comunidad dedicada a varios juegos como Killing Floor. A lo largo del tiempo se ha visto una disminución en la calidad de servidores en la cual incluso ha llevado a varias comunidades a cerrar sus servidores. Esta es nuestra principal motivación de poder construir una nueva comunidad de KF. 
 Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibles las siguientes ubicaciones que son Brasil y Chile.  
@@ -23,45 +23,47 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - Crear diferentes modalidades con el feedback de los jugadores.
 - Hacer eventos y que los jugadores participen activamente de todo el contenido del los servidores.
 
-# Características de nuestros servidores.
+# Características de nuestros servidores
 
 **Zeds:** 
 
-- **Se usan Zeds estandar para** ❱ Clot, GoreFast, Stalker, FleshPound.
-- **Se reemplazan los siguientes Zeds estandar por unos Fixeados** ❱ Bloat, Crawler, Siren, Husk, Scrake. 
+- **Se usan Zeds estándar para** ❱ Clot, GoreFast, Stalker, FleshPound.
+- **Se reemplazan los siguientes Zeds estándar por unos Fixeados** ❱ Bloat, Crawler, Siren, Husk, Scrake. 
 - **Se agregan** ❱ Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
   
 **Oleadas:** 
 
-- El servidor contara con 7 oleadas y una final con nuestro HardPat.
-- Durante las oleadas va estar presente una variable dinamica la cual va hacer que en ciertas condiciones se acelere la generacion de Zeds.
-- El limite de Zeds estara fijado en 500, debido a que no queremos que se vuelva una partida extremadamente larga. 
+- El servidor contará con 7 oleadas y una final con nuestro HardPat.
+- Durante las oleadas va a estar presente una variable dinámica la cual va a hacer que en ciertas condiciones se acelere la generación de Zeds.
+- El límite de Zeds estará fijado en 500, debido a que no queremos que se vuelva una partida extremadamente larga. 
   
 **Armas:**   
   
 - Se usan las armas que vienen por defecto en Killing Floor.
-- Todas las armas fueron ajustadas en la municion, todavia esta variable esta en proceso para ver si es realmente optimo.
-- Puedes soldar la armadura de tu compañero no lo olvides.
+- Todas las armas fueron ajustadas en la munición, todavía está en proceso de revisión para ver si es realmente óptimo.
+- Puedes soldar la armadura de tu compañero(a) no lo olvides.
   
 **Otros:** 
   
 - HUD reemplazado.
-- A nivel general se eliminaron las armas redudantes o que no tienen uso.
-- Se agrega al trader en la pestaña de otros tanto el SentryMedic como la torreta de municion.
-- Redirect ya sido probado y cumple con bastante satisfaccion el entrar en pocos segundos.
+- A nivel general se eliminaron las armas redundantes o que no tienen uso.
+- Se agrega al trader en la pestaña de otros el SentryMedic y la torreta de munición.
+- Redirect ya ha sido probado y funciona bastante bien aunque siempre recuerda reportar cualquier problema. 
+- Se activará una velocidad rápida al ir al trader, si por alguna razón has muerto antes no se va a aplicar.
+- Tiempo de revivir a nivel general es 1 minuto y si quedan pocos jugadores ya no va a ser posible.
 
-# Contenido que desarrollar a futuro.
+# Contenido que desarrollar a futuro
 
-- Sincronizacion con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
-- Incluir mas modalidades.〔Ya esta se esta trabajando en eso〕 
-- Incluir y balancear armas Custom para Perks especificos. 〔En desarollo〕
-- Crear un Perk personalizado (Ya esta hecho pero faltan mas pruebas)
+- Sincronización con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
+- Incluir más modalidades.〔Ya esta se está trabajando en eso〕 
+- Incluir y balancear armas Custom para Perks específicos.〔En desarollo〕
+- Crear un Perk personalizado〔Ya está hecho pero faltan más pruebas〕
 
-# Unete a nuestra comunidad de Discord!.
+# Únete a nuestra comunidad de Discord!
 
 [Official Discord Server](https://discord.gg/gBrURTZsSk)!
     
-# Quieres apoyar al desarollo de esta comunidad o ser un jugador testing comunicate conmigo a traves de Discord mi nick es. ❱ Yek#6171
+- Si quieres apoyar de alguna manera a nuetra comunidad o ser un jugador testing comunícate conmigo a través de Discord mi nick es. ❱ Yek#6171
 
 # License
 
