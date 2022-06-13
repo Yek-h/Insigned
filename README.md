@@ -27,33 +27,35 @@ Esta es nuestra principal motivación de poder construir una nueva comunidad de 
 
 **Zeds:** 
 
-- Se usan Zeds estandar para ❱ Clot, GoreFast, Stalker, FleshPound.
-- Se reemplazan los siguientes Zeds estandar por unos Fixeados ❱ Bloat, Crawler, Siren, Husk, Scrake. 
-- Se agregan ❱ Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
+- **Se usan Zeds estandar para** ❱ Clot, GoreFast, Stalker, FleshPound.
+- **Se reemplazan los siguientes Zeds estandar por unos Fixeados** ❱ Bloat, Crawler, Siren, Husk, Scrake. 
+- **Se agregan** ❱ Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
   
 **Oleadas:** 
 
-- Texto que tengo que llenar
-- Texto que tengo que llenar
-- Texto que tengo que llenar
+- El servidor contara con 7 oleadas y una final con nuestro HardPat.
+- Durante las oleadas va estar presente una variable dinamica la cual va hacer que en ciertas condiciones se acelere la generacion de Zeds.
+- El limite de Zeds estara fijado en 500, debido a que no queremos que se vuelva una partida extremadamente larga. 
   
 **Armas:**   
   
-- Texto que tengo que llenar
-- Texto que tengo que llenar
-- Texto que tengo que llenar
+- Se usan las armas que vienen por defecto en Killing Floor.
+- Todas las armas fueron ajustadas en la municion, todavia esta variable esta en proceso para ver si es realmente optimo.
+- Puedes soldar la armadura de tu compañero no lo olvides.
   
 **Otros:** 
   
-- Texto que tengo que llenar
-- Texto que tengo que llenar
-- Texto que tengo que llenar
+- HUD reemplazado.
+- A nivel general se eliminaron las armas redudantes o que no tienen uso.
+- Se agrega al trader en la pestaña de otros tanto el SentryMedic como la torreta de municion.
+- Redirect ya sido probado y cumple con bastante satisfaccion el entrar en pocos segundos.
 
-# A futuro
+# Contenido que desarrollar a futuro
 
-- Sincronizacion con MYSQL en el progreso de los Perks.
-- Incluir mas modalidades.
-- Buscar un segundo Host para tener servidores de respaldo.
+- Sincronizacion con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
+- Incluir mas modalidades.〔Ya esta se esta trabajando en eso〕 
+- Incluir y balancear armas Custom para Perks especificos. 〔En desarollo〕
+- Crear un Perk personalizado (Ya esta hecho pero faltan mas pruebas)
 
 # Unete a nuestra comunidad!
 
