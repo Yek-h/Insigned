@@ -48,7 +48,8 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - HUD reemplazado.
 - A nivel general se eliminaron las armas redundantes o que no tienen uso.
 - Se agrega al trader en la pestaña de otros el SentryMedic y la torreta de munición.
-- Redirect ya ha sido probado y funciona bastante bien aunque siempre recuerda reportar cualquier problema. 
+- Escalado de vida en Zeds por jugador y su límite son 16 jugadores.
+- Progreso de Perks modificado.
 - Se activará una velocidad rápida al ir al trader, si por alguna razón has muerto antes no se va a aplicar.
 - Tiempo de revivir a nivel general es 1 minuto y si quedan pocos jugadores ya no va a ser posible.
 
