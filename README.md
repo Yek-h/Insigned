@@ -28,7 +28,7 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 **Zeds:** 
 
 - **Se usan Zeds estándar para** ❱ Clot, GoreFast, Stalker, FleshPound.
-- **Se reemplazan los siguientes Zeds estándar por unos Fixeados** ❱ Bloat, Crawler, Siren, Husk, Scrake. 
+- **Se reemplazan los siguientes Zeds estándar por los del ScrnZedPack** ❱ Bloat, Crawler, Siren, Husk, Scrake. 
 - **Se agregan** ❱ Brute, Shiver, Jason, FemaleFP_MKII, WTFZombiesBloatzilla, WTFZombiesGoreallyfast, WTFZombiesIncinerator, WTFZombiesMauler, HardPatInsigned.
   
 **Oleadas:** 
