@@ -54,6 +54,7 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 
 # Contenido que desarrollar a futuro
 
+- Variables de votos en el ServerPerk.
 - Sincronización con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
 - Incluir más modalidades.〔Ya esta se está trabajando en eso〕 
 - Incluir y revisar Stats sobre armas Custom.〔En desarollo〕
@@ -61,10 +62,10 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 
 # Únete a nuestra comunidad de Discord!
 
-[Official Discord Server](https://discord.gg/gBrURTZsSk)!
+[Official Discord Server](https://discord.gg/gBrURTZsSk)! 
     
 - Si quieres apoyar de alguna manera a nuetra comunidad o ser un jugador testing comunícate conmigo a través de Discord mi nick es. ❱ Yek#6171
-
+  
 # License
 
 Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
