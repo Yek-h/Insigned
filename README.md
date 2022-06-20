@@ -44,11 +44,10 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
   
 **Otros:** 
   
-- HUD reemplazado.
 - A nivel general se eliminaron las armas redundantes o que no tienen uso.
-- Se agrega al trader en la pestaña de otros el SentryMedic y la torreta de munición.
+- Se agrega al trader en la pestaña de otros la torreta de munición.
 - Escalado de vida en Zeds por jugador y su límite son 16 jugadores.
-- Progreso de Perks modificado.
+- Progreso de Perks modificado, (Por revisar).
 - Se activará una velocidad rápida al ir al trader, si por alguna razón has muerto antes no se va a aplicar.
 - Tiempo de revivir a nivel general es 1 minuto y si quedan pocos jugadores ya no va a ser posible.
 - Optimizaciones y corregir otras variables del HUD.
@@ -57,7 +56,7 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 
 - Sincronización con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
 - Incluir más modalidades.〔Ya esta se está trabajando en eso〕 
-- Incluir y balancear armas Custom para Perks específicos.〔En desarollo〕
+- Incluir y revisar Stats sobre armas Custom.〔En desarollo〕
 - Crear un Perk personalizado〔Ya está hecho pero faltan más pruebas〕
 
 # Únete a nuestra comunidad de Discord!
