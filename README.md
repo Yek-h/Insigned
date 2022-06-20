@@ -54,11 +54,12 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 
 # Contenido que desarrollar a futuro
 
-- Variables de votos en el ServerPerk.
-- Sincronización con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕
+- Variables de votos en el ServerPerk.〔En desarollo〕
+- Sincronización con MYSQL en el progreso de los Perks.〔Probando si es compatible entre servidores〕 
 - Incluir más modalidades.〔Ya esta se está trabajando en eso〕 
 - Incluir y revisar Stats sobre armas Custom.〔En desarollo〕
 - Crear un Perk personalizado〔Ya está hecho pero faltan más pruebas〕
+- Revisar la modalidad Insane tanto su configuración general como los paquetes de Zeds.
 
 # Únete a nuestra comunidad de Discord!
 
