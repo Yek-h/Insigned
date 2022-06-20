@@ -23,7 +23,7 @@ Queremos abarcar diferentes regiones aunque inicialmente solo estarán disponibl
 - Crear diferentes modalidades con el feedback de los jugadores.
 - Hacer eventos y que los jugadores participen activamente de todo el contenido del los servidores.
 
-# Características de nuestros servidores
+# Características actuales de los servidores
 
 **Zeds:** 
 
